@@ -23,8 +23,8 @@ This project evaluates business performance over a four-year period (2014–2017
 
 Most sales dashboards only display surface-level revenue numbers. This project is designed to answer real operational questions a sales director or supply chain analyst would ask:
 
-- *"Which product categories generate actual profit margin versus high revenue with low net returns?"*
-- *"Which sub-categories are losing money, and how do we trace profitability down to individual customers and orders?"*
+- *Which product categories generate actual profit margin versus high revenue with low net returns?*
+- *Which sub-categories are losing money, and how do we trace profitability down to individual customers and orders?*
 
 ---
 
