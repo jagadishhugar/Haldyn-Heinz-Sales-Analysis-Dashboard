@@ -92,3 +92,8 @@ This project evaluates business performance over a four-year period (2014–2017
 ### Page 7 (Detailed Customer Analysis)
 
 <img width="1162" height="657" alt="image" src="https://github.com/user-attachments/assets/f710dbd2-1113-497a-9144-03880f71496c" />
+
+## 👤 Author
+ 
+**Jagadish Hugar**
+[GitHub](https://github.com/jagadishhugar) · [LinkedIn](https://www.linkedin.com/in/jagadishhugar)
