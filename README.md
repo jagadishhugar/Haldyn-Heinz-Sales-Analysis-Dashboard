@@ -118,12 +118,6 @@ Most sales dashboards only display surface-level revenue numbers. This project i
 ## 👤 Author
 
 **Jagadish Hugar**  
-* **LinkedIn:** [linkedin.com/in/jagadishhugar](https://www.linkedin.com/in/jagadishhugar)
-* **GitHub:** [github.com/jagadishhugar](https://github.com/jagadishhugar)
-* **Portfolio:** [your-portfolio-link.com](https://your-portfolio-link.com)
-
-* ## 👤 Author
-
-Developed by **Jagadish Hugar**  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/jagadishhugar)
-[![GitHub](https://img.shields.io/badge/GitHub-Profile-black?style=flat&logo=github)](https://github.com/jagadishhugar)
+[![Portfolio](https://shields.io/badge/My_Portfolio-4285F4.svg?logo=mainwp&logoColor=white)](https://jagadishhugar.github.io/portfolio)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/jagadishhugar) 
+[![GitHub](https://img.shields.io/badge/GitHub-8A2BE2.svg?logo=GitHub&logoColor=white)](https://github.com/jagadishhugar)
