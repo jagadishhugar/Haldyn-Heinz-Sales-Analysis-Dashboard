@@ -65,16 +65,30 @@ This project evaluates business performance over a four-year period (2014–2017
 
 ## Below pictures will provide the visualizations of dashboard.
 
+### Page 1
+
 <img width="1158" height="665" alt="image" src="https://github.com/user-attachments/assets/7c195218-eeb8-47dc-a6bd-b46a41c9030b" />
+
+### Page 2
 
 <img width="1162" height="660" alt="image" src="https://github.com/user-attachments/assets/f4493f40-f8ad-45d7-a5d3-189b22e73060" />
 
+### Page 3
+
 <img width="1157" height="657" alt="image" src="https://github.com/user-attachments/assets/c5477b5a-6a9a-4714-8a5f-3da8e8e2805f" />
+
+### Page 4
 
 <img width="1160" height="653" alt="image" src="https://github.com/user-attachments/assets/e165744b-a2f1-46ac-b8fc-fca5a5d6fd9c" />
 
+### Page 5
+
 <img width="1166" height="672" alt="image" src="https://github.com/user-attachments/assets/d5c9bd65-7d46-44fa-98a0-25e6505f5e5a" />
 
+### Page 6
+
 <img width="1157" height="670" alt="image" src="https://github.com/user-attachments/assets/e60ed83c-6e06-4e74-9791-dc21efd39778" />
+
+### Page 7
 
 <img width="1162" height="657" alt="image" src="https://github.com/user-attachments/assets/f710dbd2-1113-497a-9144-03880f71496c" />
