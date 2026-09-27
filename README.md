@@ -1,12 +1,14 @@
-# Haldyn Heinz Sales Analysis Dashboard 📊
+# 📊 Haldyn Heinz Sales Analysis Dashboard
 
-An end-to-end interactive Power BI dashboard analyzing sales performance, profitability trends, regional distributions, and customer segments for Haldyn Heinz Fine Glass.
+An interactive business intelligence dashboard analyzing sales performance, profitability trends, regional distributions, and customer segments for Haldyn Heinz Fine Glass. Built to go beyond basic visuals by incorporating **multi-dimensional DAX aggregations**, **time-series growth tracking**, **geospatial sales mapping**, and **customer-level profitability analysis**.
+
+> Built and tested on **Power BI Desktop**.
 
 ---
 
 ## 📌 Executive Summary
 
-This project evaluates business performance over a four-year period (2014–2017). The report provides business stakeholders with clear, actionable insights into revenue growth, high-margin product lines, regional market dynamics, and customer purchasing behaviors.
+This project evaluates business performance over a four-year period (2014–2017) to provide business stakeholders with actionable insights into revenue growth, high-margin product lines, regional market dynamics, and customer purchasing behaviors.
 
 ### 📈 High-Level KPIs
 * **Total Sales:** ₹2.30M
@@ -17,7 +19,61 @@ This project evaluates business performance over a four-year period (2014–2017
 
 ---
 
-## 📁 Key Dashboards & Features
+## 📌 Why this project
+
+Most sales dashboards only display surface-level revenue numbers. This project is designed to answer real operational questions a sales director or supply chain analyst would ask:
+
+- *"Which product categories generate actual profit margin versus high revenue with low net returns?"*
+- *"Which sub-categories are losing money, and how do we trace profitability down to individual customers and orders?"*
+
+---
+
+## 🧱 Dashboard Architecture Overview
+
+| Report Page | Purpose |
+|---|---|
+| `Sales Overview` | High-level KPIs, category revenue split, and regional performance |
+| `Profit Analysis` | Product-level profit drivers, sub-category waterfall charts, and time series trends |
+| `Region Wise Analysis` | Geospatial sales distribution, heatmaps, and state/city volume breakdowns |
+| `Customer Insights` | Customer-level profitability, order history tables, and segment analysis |
+
+---
+
+## 📷 Dashboard Screenshots
+
+### Sales Overview
+![Sales Overview](images/sales_overview.png)
+
+### Profit Analysis
+![Profit Analysis](images/profit_analysis.png)
+
+### Time Series Analysis
+![Time Series Analysis](images/time_series.png)
+
+### Region-Wise Analysis
+![Region Wise Analysis](images/region_analysis.png)
+
+---
+
+Below pictures will provide the visualizations of dashboard.
+Page 1 (Welcome Page)
+image
+Page 2 (Sales Overview)
+image
+Page 3 (Profit Analysis)
+image
+Page 4 (Time Series Analysis)
+image
+Page 5 (Region Wise Analysis)
+image
+Page 6 (Customer Analysis)
+image
+Page 7 (Detailed Customer Analysis)
+image
+👤 Author
+Jagadish Hugar GitHub · LinkedIn
+
+## ✨ Key Features & Dashboards
 
 ### 1. Sales & Regional Overview
 * **Regional & Category Breakdown:** Visualizes sales across East, West, Central, and South regions partitioned by Furniture, Office Supplies, and Technology.
@@ -39,61 +95,26 @@ This project evaluates business performance over a four-year period (2014–2017
 
 ---
 
-## 🛠️ Tools & Technologies Used
+## 🛠️ Tech Stack & Concepts
 
-* **Power BI Desktop:** Dashboard design, custom visual selection, and formatting.
-* **DAX (Data Analysis Expressions):** Calculated measures for Total Sales, Total Profits, Quantities, and YoY Growth comparisons.
-* **Power Query:** Data extraction, transformation, cleaning, and table relationships.
+* **Tool:** Microsoft Power BI Desktop
+* **Data Transformation:** Power Query (M Language) for ETL, data cleaning, and schema modeling
+* **Calculations:** DAX (Data Analysis Expressions) for dynamic measures, aggregations, and Time Intelligence
+* **Visualization:** Custom visuals, waterfall charts, geospatial mapping, dynamic tooltips, and slicers
 
 ---
 
 ## 💡 Key Business Insights
 
-1. **Category Performance:** Technology generates over half of the total net profits (50.79%), whereas Furniture exhibits high sales volume but tight profit margins.
+1. **Category Performance:** Technology generates over half of total net profits (50.79%), whereas Furniture exhibits high sales volume but tight profit margins.
 2. **Customer Segmentation:** The **Consumer** segment represents the largest portion of overall business revenue (~50%).
 3. **Sub-Category Focus:** **Copiers** and **Phones** drive the majority of profits, whereas **Tables** show negative profitability and require pricing or cost optimization.
 
 ---
 
-## 🚀 How to View the Project
+## 🚀 Setup & Run (Power BI)
 
-1. Clone or download this repository.
-2. Ensure you have **Power BI Desktop** installed.
-3. Open the `.pbix` file included in the root directory to interact with the dashboards, slicers, and cross-filtering features.
-
----
-
-## Below pictures will provide the visualizations of dashboard.
-
-### Page 1 (Welcome Page)
-
-<img width="1158" height="665" alt="image" src="https://github.com/user-attachments/assets/7c195218-eeb8-47dc-a6bd-b46a41c9030b" />
-
-### Page 2 (Sales Overview)
-
-<img width="1162" height="660" alt="image" src="https://github.com/user-attachments/assets/f4493f40-f8ad-45d7-a5d3-189b22e73060" />
-
-### Page 3 (Profit Analysis)
-
-<img width="1157" height="657" alt="image" src="https://github.com/user-attachments/assets/c5477b5a-6a9a-4714-8a5f-3da8e8e2805f" />
-
-### Page 4 (Time Series Analysis)
-
-<img width="1160" height="653" alt="image" src="https://github.com/user-attachments/assets/e165744b-a2f1-46ac-b8fc-fca5a5d6fd9c" />
-
-### Page 5 (Region Wise Analysis)
-
-<img width="1166" height="672" alt="image" src="https://github.com/user-attachments/assets/d5c9bd65-7d46-44fa-98a0-25e6505f5e5a" />
-
-### Page 6 (Customer Analysis)
-
-<img width="1157" height="670" alt="image" src="https://github.com/user-attachments/assets/e60ed83c-6e06-4e74-9791-dc21efd39778" />
-
-### Page 7 (Detailed Customer Analysis)
-
-<img width="1162" height="657" alt="image" src="https://github.com/user-attachments/assets/f710dbd2-1113-497a-9144-03880f71496c" />
-
-## 👤 Author
- 
-**Jagadish Hugar**
-[GitHub](https://github.com/jagadishhugar) · [LinkedIn](https://www.linkedin.com/in/jagadishhugar)
+1. Download and install **Microsoft Power BI Desktop**.
+2. Clone or download this repository:
+   ```bash
+   git clone [https://github.com/jagadishhugar/Haldyn-Heinz-Sales-Analysis-Dashboard.git](https://github.com/jagadishhugar/Haldyn-Heinz-Sales-Analysis-Dashboard.git)
