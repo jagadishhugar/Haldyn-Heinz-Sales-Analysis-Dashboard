@@ -106,6 +106,19 @@ Most sales dashboards only display surface-level revenue numbers. This project i
 
 ---
 
+## 📂 Files
+
+| File | Description |
+|---|---|
+| Sample-Superstore-Final.pbix | Full Power BI report file with data model, DAX measures, 7 dashboard views, and interactive visuals |
+| Sample - Superstore -Final.xlsx | Raw source dataset containing sales transactions, customer details, regional geography, and product categories |
+| images/ | Directory containing high-resolution screenshots of all dashboard pages for documentation previews |
+| Banner.jpg | Header image used for project branding and visual display |
+| HH-logo.png | Company logo asset for Haldyn Heinz Fine Glass |
+| README.md | Complete project documentation detailing architecture, KPIs, business insights, and setup steps |
+
+---
+
 ## 🚀 Setup & Run (Power BI)
 
 1. Download and install **Microsoft Power BI Desktop**.
