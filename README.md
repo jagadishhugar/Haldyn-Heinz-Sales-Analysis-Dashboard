@@ -61,6 +61,8 @@ This project evaluates business performance over a four-year period (2014–2017
 2. Ensure you have **Power BI Desktop** installed.
 3. Open the `.pbix` file included in the root directory to interact with the dashboards, slicers, and cross-filtering features.
 
+## Below pictures will provide the visualizations of dashboard.
+
 <img width="1158" height="665" alt="image" src="https://github.com/user-attachments/assets/7c195218-eeb8-47dc-a6bd-b46a41c9030b" />
 
 <img width="1162" height="660" alt="image" src="https://github.com/user-attachments/assets/f4493f40-f8ad-45d7-a5d3-189b22e73060" />
